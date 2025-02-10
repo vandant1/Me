@@ -6,18 +6,18 @@ Welcome to my GitHub profile!
 
 I am a passionate software developer with a keen interest in open-source projects, cloud computing, and artificial intelligence. I enjoy learning new technologies and applying them to solve real-world problems.
 
-- 🌱 I’m currently learning advanced cloud computing and AI techniques.
+- 🌱 I’m currently learning advanced AI techniques.
 - 👯 I’m looking to collaborate on open-source projects related to AI and cloud infrastructure.
 - 💬 Ask me about Python, JavaScript, and cloud services.
-- 📫 How to reach me: [Email](mailto:vandant@example.com) | [LinkedIn](https://www.linkedin.com/in/vandant1/)
+- 📫 How to reach me: [Email](mailto:taradevandan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vandant1/)
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## My Skills
 
 - **Languages:** Python, JavaScript, Java, C++
 - **Frameworks:** React, Node.js, Django, Flask
-- **Cloud:** AWS, Azure, Google Cloud Platform
-- **DevOps:** Docker, Kubernetes, CI/CD
+- **Cloud:** Google Cloud Platform
+- **DevOps:** Docker, CI/CD
 
 ## GitHub Stats
 
@@ -31,9 +31,9 @@ I am a passionate software developer with a keen interest in open-source project
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/vandant1/project1): A web application built with React and Node.js.
-- [Project 2](https://github.com/vandant1/project2): An AI-based tool for image recognition using Python and TensorFlow.
-- [Project 3](https://github.com/vandant1/project3): A cloud infrastructure automation script using AWS CloudFormation.
+- [Project 1](https://github.com/vandant1/ABBMSM): A web application built with React and Node.js.
+- [Project 2](https://data-cleaning-and-visualization-tool.streamlit.app/): An AI-based tool for image recognition using Python and TensorFlow.
+- [Project 3]([https://github.com/vandant1/project3](https://disease-diagnosis-at-finger-tip.streamlit.app/)): A cloud infrastructure automation script using AWS CloudFormation.
 
 Feel free to check out my repositories and contribute to any project that interests you.
 
